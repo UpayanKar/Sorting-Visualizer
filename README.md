@@ -1,1 +1,7 @@
-Visit Project:(sorting-visualizer-cbu5.vercel.app)
+Sorting Visualizer:
+-----------------------------
+Bubble Sort
+Selection Sort
+Quick Sort
+Insertion Sort
+Merge Sort
