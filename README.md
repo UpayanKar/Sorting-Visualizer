@@ -1,5 +1,5 @@
 Sorting Visualizer:
------------------------------
+
 Bubble Sort
 Selection Sort
 Quick Sort
